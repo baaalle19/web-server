@@ -8,7 +8,7 @@ This is how i make my web server
 
  - SSH
  - Apache2
- - bind9
+ - html
 
 
 ## Tools
@@ -18,5 +18,5 @@ This is how i make my web server
 ## WorkFlow
 1. Install ssh (bawaan ubuntu)
 2. Configure ssh
-3. Configure HTML Apache2
-4. Install bind9
+3. Install HTML Apache2
+4. Configure HTML Apache2
