@@ -9,8 +9,6 @@ This is how i make my web server
  - SSH
  - Apache2
  - html
- - php
-
 
 ## Tools
 - VMware Workstation Pro 17
